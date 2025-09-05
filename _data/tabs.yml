@@ -1,0 +1,32 @@
+- title: Projects
+  icon: fas fa-code
+  url: /projects/
+  order: 2
+
+- title: Blog
+  icon: fas fa-pen-nib
+  url: /blog/
+  order: 3
+
+
+- title: Categories
+  icon: fas fa-stream
+  url: /categories/
+  order: 4
+
+- title: Tags
+  icon: fas fa-tags
+  url: /tags/
+  order: 5
+
+- title: Archives
+  icon: fas fa-archive
+  url: /archive/
+  order: 6
+
+
+- title: About
+  icon: fas fa-info-circle
+  url: /about/
+  order: 7
+

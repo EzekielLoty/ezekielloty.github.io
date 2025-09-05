@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Blog"
 date: 2025-09-01
-categories: [Blog]
+categories: [Blog, Intro] 
 tags: [Introduction, Jekyll, Chirpy]
 author: Ezekiel Loty # optional featured image
 excerpt: "This is a dummy post to get started with my Chirpy blog. Let's explore what we can do!"

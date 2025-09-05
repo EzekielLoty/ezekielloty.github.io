@@ -3,6 +3,8 @@ layout: page
 # All the Tags of posts.
 ---
 
+<h1 class="page-header mb-4">{{ page.title }}</h1>
+
 <div id="tags" class="d-flex flex-wrap mx-xl-2">
   {% assign tags = '' | split: '' %}
   {% for t in site.tags %}

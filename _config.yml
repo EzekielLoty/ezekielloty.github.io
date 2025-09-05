@@ -16,7 +16,7 @@ timezone:
 
 title: Ezekiel Loty # the main title
 
-tagline: Software Engineer # it will display as the subtitle
+tagline: Backend & ML Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
       A Portofolio and Blog Website to Showcase Learning and Projects
@@ -228,10 +228,10 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-collections:
-  tabs:
-    output: true
-    sort_by: order
+#collections:
+ # tabs:
+  #  output: true
+   # sort_by: order
 
 defaults:
   - scope:
